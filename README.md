@@ -27,6 +27,6 @@
 
 ### Nice Post
 
-1.  2015 Summary [@haoel](https://github.com/haoel)
+1.  [2015 Summary](https://github.com/winter-fall/Bye2015Hi2016/issues/4) by [@haoel](https://github.com/haoel)
 
-1.  2015感谢有你们，我成长的路上不再那么孤单 [@androidmalin](https://github.com/androidmalin)
+1.  [2015感谢有你们，我成长的路上不再那么孤单](https://github.com/winter-fall/Bye2015Hi2016/issues/2) by [@androidmalin](https://github.com/androidmalin)
