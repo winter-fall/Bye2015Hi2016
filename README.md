@@ -23,3 +23,10 @@
 3.  **欢迎邀请你的朋友参加**
 
 4.  如果你在其他地方看到，你的朋友的精彩的故事，在征得他的同意之后，非常欢迎分享给我们。
+
+
+### Nice Post
+
+1.  2015 Summary [@haoel](https://github.com/haoel)
+
+1.  2015感谢有你们，我成长的路上不再那么孤单 [@androidmalin](https://github.com/androidmalin)
