@@ -41,7 +41,7 @@
 
 1.  [体育生在上海两年的android路](https://github.com/winter-fall/Bye2015Hi2016/issues/38) by [@hoangjian123](https://github.com/hoangjian123)
 
-
 1.  [2015，我想和这个世界谈谈](https://github.com/winter-fall/Bye2015Hi2016/issues/35) by [@zangqilong198812 / 叶孤城](https://github.com/zangqilong198812)
 
+## [更多](https://github.com/winter-fall/Bye2015Hi2016/issues)
 
