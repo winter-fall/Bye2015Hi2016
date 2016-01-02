@@ -30,18 +30,8 @@
 
 1.  [2015 Summary](https://github.com/winter-fall/Bye2015Hi2016/issues/4) by [@haoel / 左耳朵耗子](https://github.com/haoel)
 
-1.  [2015感谢有你们，我成长的路上不再那么孤单](https://github.com/winter-fall/Bye2015Hi2016/issues/2) by [@androidmalin / 马琳](https://github.com/androidmalin)
+1.  [Be a happier myself](https://github.com/winter-fall/Bye2015Hi2016/issues/37) by [@BinaryHB](https://github.com/BinaryHB)
 
 
-1.  [Ryan, You Know Nothing!](https://github.com/winter-fall/Bye2015Hi2016/issues/20) by [@ryanhoo](https://github.com/ryanhoo)
-
-
-1.  [Nice to meet 2016](https://github.com/winter-fall/Bye2015Hi2016/issues/13) by [@bboyfeiyu 、 Mr.SIMPLE](https://github.com/bboyfeiyu)
-
-
-1.  [体育生在上海两年的android路](https://github.com/winter-fall/Bye2015Hi2016/issues/38) by [@hoangjian123](https://github.com/hoangjian123)
-
-1.  [2015，我想和这个世界谈谈](https://github.com/winter-fall/Bye2015Hi2016/issues/35) by [@zangqilong198812 / 叶孤城](https://github.com/zangqilong198812)
-
-## [更多](https://github.com/winter-fall/Bye2015Hi2016/issues)
+1.  ## [阅读更多](https://github.com/winter-fall/Bye2015Hi2016/issues)
 
