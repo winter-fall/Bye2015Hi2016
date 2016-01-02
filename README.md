@@ -33,5 +33,5 @@
 1.  [Be a happier myself](https://github.com/winter-fall/Bye2015Hi2016/issues/37) by [@BinaryHB](https://github.com/BinaryHB)
 
 
-1.  ## [阅读更多](https://github.com/winter-fall/Bye2015Hi2016/issues)
+### [阅读更多](https://github.com/winter-fall/Bye2015Hi2016/issues)
 
